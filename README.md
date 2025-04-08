@@ -48,7 +48,7 @@ Happy Coding! 💻✨
   </nav>
   <main class="content">
     <section class="hero">Welcome to My Website!</section>
-    <section class="info">Here is some information.</section>
+    <section class="info">Am a student in the Power Learn Academy taking a course in Software Development and also a Student in College Learning Electrical and Electrical Engineering.</section>
   </main>
   <footer class="footer">
     © 2025 Samuel Deche. All rights reserved.
